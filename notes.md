@@ -47,7 +47,19 @@
 - Open-source software
 - Closed-source software
 - Bug bounty
-- CVSS (Common vulnerability scoring system)
-- CVE (Common vulnerabilities and exposures)
+- CVSS (common vulnerability scoring system)
+- CVE (common vulnerabilities and exposures)
 - EPSS (exploit prediction scoring system)
-- 
+- KEV (known exploited vulnerabilities)
+
+## Preserving privacy
+- Logs (servers log user activities)
+- `<referrer content=none>` to not send any referrer.
+- `Referrer-Policy: no-referrer` to not send any original website.
+- Fingerprinting: User-Agent (OS, Browser)
+- No SMS validation
+- Tracking cookies have time duration that is allowed to track the user.
+- Tracking parameters
+- Third-party cookies
+- DNS over HTTPS (DoH)
+- DNS over TLS (DoT)
