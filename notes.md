@@ -1,6 +1,5 @@
 # Notes for cybersecurity
-# Updates on project 
-
+# I have updated the video for the final project. 
 
 ## Securing accounts
 
